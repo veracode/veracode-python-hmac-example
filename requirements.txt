@@ -1,2 +1,2 @@
 requests>=2.21.0
-https://downloads.veracode.com/securityscan/hmac/python/security_apisigning_python-17.9.1-py2-none-any.whl
+veracode-api-signing>=19.9.0
