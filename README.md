@@ -6,7 +6,7 @@ A simple example of usage of the Veracode API signing library provided on the [V
 
 Clone this repository:
 
-    git clone https://github.com/ctcampbell/veracode-python-hmac-example.git
+    git clone https://github.com/veracode/veracode-python-hmac-example.git
 
 Install dependencies:
 
